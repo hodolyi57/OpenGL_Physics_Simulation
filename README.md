@@ -2,4 +2,4 @@
 COSE436 Interactive Visualization Term Project
 
  ## Screenshot
- ![](capture.png)
+ ![](capture.PNG)
