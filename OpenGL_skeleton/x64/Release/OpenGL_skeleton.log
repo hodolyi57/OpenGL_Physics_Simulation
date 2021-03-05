@@ -1,0 +1,7 @@
+﻿  main.cpp
+main.obj : error LNK2001: __imp___glutCreateWindowWithExit 외부 기호를 확인할 수 없습니다.
+main.obj : error LNK2001: __imp___glutInitWithExit 외부 기호를 확인할 수 없습니다.
+main.obj : error LNK2001: __imp_glutInitDisplayMode 외부 기호를 확인할 수 없습니다.
+main.obj : error LNK2001: __imp_glutDisplayFunc 외부 기호를 확인할 수 없습니다.
+main.obj : error LNK2001: __imp_glutMainLoop 외부 기호를 확인할 수 없습니다.
+E:\프로젝트\2020\학부수업\OpenGL_skeleton\x64\Release\OpenGL_skeleton.exe : fatal error LNK1120: 5개의 확인할 수 없는 외부 참조입니다.
